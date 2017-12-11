@@ -1,3 +1,7 @@
 Hoang Quoc Thinh
 
+<<<<<<< HEAD
 phu_branch
+=======
+thinh_branch
+>>>>>>> origin/thinh_branch
