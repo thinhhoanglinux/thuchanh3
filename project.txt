@@ -1,5 +1,9 @@
 Hoang Quoc Thinh
 
 thinh_branch
+<<<<<<< HEAD
 
 ABC
+=======
+ 
+>>>>>>> b56f88224b425c1bfa422b37ecb7b90accb56353
